@@ -1,0 +1,7 @@
+2025-04-04 05:19:05.894381 - Received CBT.V508.FILE162.PDS from FILE162.XMI 
+2025-04-04 05:19:05.895076 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE162.PDS, moved to PDS/$$$#DATE
+2025-04-04 05:19:05.895250 - Found @FILE162.txt (text/plain) in CBT.V508.FILE162.PDS, moved to PDS/@FILE162
+2025-04-04 05:19:05.895382 - Found ASMJCL.txt (text/plain) in CBT.V508.FILE162.PDS, moved to PDS/ASMJCL
+2025-04-04 05:19:05.895506 - Found MANUAL.txt (text/plain) in CBT.V508.FILE162.PDS, moved to PDS/MANUAL
+2025-04-04 05:19:05.895617 - Found SAMPLE.txt (text/plain) in CBT.V508.FILE162.PDS, moved to PDS/SAMPLE
+2025-04-04 05:19:05.895763 - Found XREFASM.bin (application/octet-stream) in CBT.V508.FILE162.PDS, moved to PDS/XREFASM
